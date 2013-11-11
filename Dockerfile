@@ -1,4 +1,4 @@
-FROM mnokrome/zmq
+FROM monokrome/zmq
 MAINTAINER Brandon R. Stoner <monokrome@monokro.me>
 
 WORKDIR /tmp
